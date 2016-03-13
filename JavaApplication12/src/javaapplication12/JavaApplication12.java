@@ -18,6 +18,7 @@ public class JavaApplication12 {
         // TODO code application logic here
         System.out.println("Akhirnya bisa");
         System.out.println("sekali lagi");
+        System.out.println("udah bisa");
     }
     
 }
